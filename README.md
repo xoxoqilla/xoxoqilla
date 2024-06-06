@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1&color=FFFFFF&random=false&width=435&lines=rivebot+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1&color=FFFFFF&random=false&width=435&lines=rivebot+developer;ruby+owner)](https://git.io/typing-svg)
 
 
 
@@ -14,6 +14,7 @@
 
 ## I am a 
 - `developer` @ rivebot
+- `developer` @ ruby
 
 ## Contact me
 ### Discord ; @q1lla
